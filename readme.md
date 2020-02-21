@@ -10,7 +10,8 @@ A graph was generated from the VLOOKUP table to compare the two cites.
 The cities can be manipulated to gather new insights if need be. 
 
 The link to the opportunity atlas site used for data collection is: https://www.opportunityatlas.org/ 
-The link to the excel file: Comparing_Baltimore_Miami_grad_Employment_Poverty_rate.xls
+
+The link to the excel file: https://drive.google.com/file/d/1mrUX1mNt-7lI1IezU7zZSyEc3iveYsjN/view?usp=sharing
 
 ## Findings
 What was found was that Mimai has a higher graduation rate, higher employment rate and lower poverty rate than that of Baltimore. 
