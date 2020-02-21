@@ -16,3 +16,4 @@ What was found was that Mimai has a higher graduation rate, higher employment ra
 The reason behind why this might be possible is becuase the average income in the area is higher which can lead to this difference. 
 
 The following is the graph of the data collection.
+jk
