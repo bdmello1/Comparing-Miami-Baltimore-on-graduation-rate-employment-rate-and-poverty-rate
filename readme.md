@@ -20,6 +20,6 @@ The following is the graph of the data collection.
 
 Type	Name	Latest commit message	Commit time
 
-![Image description]("Miami and Baltimore.png")
+![Image description](Comparing-Miami-Baltimore-on-graduation-rate-employment-rate-and-poverty-rate/Miami and Baltimore.png)
 
 jk
