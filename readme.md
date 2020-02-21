@@ -15,7 +15,7 @@ The link to the excel file: https://drive.google.com/file/d/1mrUX1mNt-7lI1IezU7z
 
 ## Findings
 What was found was that Mimai has a higher graduation rate, higher employment rate and lower poverty rate than that of Baltimore. 
-The reason behind why this might be possible is becuase the average income in the area is higher which can lead to this difference. 
+The reason behind why this might be possible is becuase the average income in the area is higher which can lead to this difference. Also, several supportive services might be better in south Florida resulting in the gap. Some policies that might need to be implemented in Baltimore to close the gap are to develop policy to drive more students to highshchools to increase the graduation rate. By doing so, this can help to increase employement rate and decrease the poverty rate.
 
 The following is the graph of the data collection.
 
