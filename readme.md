@@ -20,5 +20,5 @@ The following is the graph of the data collection.
 
 Type	Name	Latest commit message	Commit time
 
-![Image description](Comparing-Miami-Baltimore-on-graduation-rate-employment-rate-and-poverty-rate/Miami%20and%20Baltimore.png)
+![](bdmello1/Comparing-Miami-Baltimore-on-graduation-rate-employment-rate-and-poverty-rate/Miami%20and%20Baltimore.png)
 
