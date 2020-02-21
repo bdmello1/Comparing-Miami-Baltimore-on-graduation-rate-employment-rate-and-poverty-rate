@@ -17,8 +17,5 @@ The reason behind why this might be possible is becuase the average income in th
 
 The following is the graph of the data collection.
 
-
-Type	Name	Latest commit message	Commit time
-
 ![](Miami%20and%20Baltimore.png)
 
